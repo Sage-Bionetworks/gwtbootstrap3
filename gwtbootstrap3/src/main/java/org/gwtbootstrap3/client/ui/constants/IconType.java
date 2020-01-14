@@ -39,6 +39,7 @@ public enum IconType implements Type, Style.HasCssName {
     SYN_USER("syn-user"),
     SYN_USERS("syn-users"),
     SYN_MANAGER("syn-manager"),
+    SYN_ADVANCED_SEARCH("syn-advanced-search"),
 
     ADJUST("fa-adjust"),
     ADN("fa-adn"),
